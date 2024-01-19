@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "vite build",
     "dev": "vite --host=localhost --port=5173",
     "dev2": "vite --open",
     "commit": "cz",
